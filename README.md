@@ -8,5 +8,6 @@
  cd panel
  bash update.sh
  cd .. &amp;&amp; rm -f LinuxPanel-*.zip &amp;&amp; rm -rf panel
+ rm -f /www/server/panel/data/bind.pl
 </code></pre>
 <p>&nbsp;</p>
